@@ -8,8 +8,10 @@ This project predicts customer churn using a machine learning model built with K
 - Streamlit interface for real-time predictions
 - Easy-to-understand input/output for quick insights
 
-## Installation
+## Installation and Setup
 
-1. **Clone the repository**
+Clone the repository, navigate into it, and install dependencies all in one go:
+
 ```bash
-git clone https://github.com/<your-username>/Customer-Churn-Prediction.git
+git clone https://github.com/<your-username>/Customer-Churn-Prediction.git && cd Customer-Churn-Prediction && pip install -r requirements.txt
+
